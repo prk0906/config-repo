@@ -1,8 +1,6 @@
 server:
   port: 8081
 spring:
-  application:
-    name: MDM
   datasource:
     url: jdbc:mysql://localhost:3306/cruisemdm
     username: root
